@@ -1,0 +1,6 @@
+pip install ipython
+python manage.py shell --plain
+python manage.py shell_plus
+pip uninstall ipython
+python –m pip install --upgrade pip
+pip install Django --upgrade
