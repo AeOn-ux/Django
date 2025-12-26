@@ -1,0 +1,2 @@
+def secret_key():
+    return 'DEVE02FC0264B9081DC85110722ACFC51DA1FB46'
